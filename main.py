@@ -1,5 +1,7 @@
 def hello():
-    return  "hello"
+    return "hello"
+
 def world():
     return "world"
-pringt(f"hello() world()")
+
+print(f"hello() world()")
